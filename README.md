@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png">
+</p>
+
 # 👋 Olá, eu sou Wallacy Ramos
 
 💻 Desenvolvedor focado em PHP, sistemas web e deploy de aplicações.
